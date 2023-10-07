@@ -9,6 +9,8 @@ You currently record your purchases, but I have plans to enhance it in the futur
 1.) Clone the repository
 2.) Tools you need installed:
 - FastAPI, Uvicorn, sqlachemy, NodeJS
+
+
 3.) CD into React folder, and * npm start * to run the code
 
 
