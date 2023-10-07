@@ -10,8 +10,9 @@ You currently record your purchases, but I have plans to enhance it in the futur
 2.) Tools you need installed:
 - FastAPI, Uvicorn, sqlachemy, NodeJS
 
-
 3.) CD into React folder, and * npm start * to run the code
+
+I am currently having issues uploading the react file, but you can see the picture below for UI, I can run the project locally on my computer though. 
 
 
 
